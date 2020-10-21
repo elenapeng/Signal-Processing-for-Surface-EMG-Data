@@ -32,7 +32,3 @@ Vastus lateralis, and Vastus medialis) and onset time (ms) of force.
 (3) Output plots to visualize the onset time marked with a red circle for the 4 muscle 
 and the force channel. 
 ```
-Parameters of Signal Processing 
-```
-
-```

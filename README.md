@@ -27,7 +27,7 @@ Output of the Code
 (1) Output of onset time (ms) of the 4 muscles (Rectus femoris, Vastus medialis oblique, 
 Vastus lateralis, and Vastus medialis) and onset time (ms) of force.
 
-(2) Output of activation amplitudes normalized to the MVC for the 4 muscles.
+(2) Output of activation amplitudes normalized to the MVC (%) for the 4 muscles.
 
 (3) Output plots to visualize the onset time marked with a red circle for the 4 muscle 
 and the force channel. 

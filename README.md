@@ -13,12 +13,12 @@ obtained from quadriceps muscles when performing isometric straight leg raise ta
 Input and Output of the Code
 ```
 Inputs 
-(1)	Input the data files needed for onset time and activation amplitude analysis. 
--	A testing trial file
--	Maximum voluntary contraction (MVC) files
--	A resting trial during MVC file
+(1) Input the data files needed for onset time and activation amplitude analysis. 
+- A testing trial file
+- Maximum voluntary contraction (MVC) files
+- A resting trial during MVC file
 
-(2)	Input the parameters for onset time calculation.
+(2) Input the parameters for onset time calculation.
 -	RMS window (ms)
 -	Smoothing window for RMS (ms)
 -	Threshold of standard deviation to define onset (SD)
